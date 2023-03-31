@@ -1,0 +1,15 @@
+.wrapper{
+    width: 200px;
+    height: 250px;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.wrapper img{
+    border-radius: 10px;
+}
+.wrapper h6{
+    text-align: center;
+    font-size: 15px;
+}
